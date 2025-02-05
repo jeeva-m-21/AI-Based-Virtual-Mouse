@@ -1,0 +1,7 @@
+PyQt6==6.3.1
+opencv-python==4.5.5.64
+numpy==1.21.2
+keyboard==0.13.5
+pyautogui==0.9.53
+pycaw==2021.1.4
+autopy==5.0.0
